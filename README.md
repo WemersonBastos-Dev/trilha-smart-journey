@@ -14,7 +14,8 @@ Este projeto foi gerado com **Lovable**, uma plataforma mágica ✨ de desenvolv
 > **Tecnologias usadas**  
 ⚡ Vite + 🧠 TypeScript + ⚛️ React + 🧩 Shadcn UI + 🎨 Tailwind CSS
 
-![Tech Stack](https://github.com/WemersonBastos-Dev/trilha-smart-journey/assets/stack-example.png)
+![Tech Stack](https://miro.medium.com/v2/resize:fit:1400/1*anNHDVO8H3Zflz1h9MPZtw.png)
+
 
 ---
 
